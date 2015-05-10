@@ -1,2 +1,2 @@
 # beta
-this is for beta projects
+This repository is for beta projects.
